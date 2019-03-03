@@ -2,7 +2,10 @@
 body {
 background-color: rgb(201, 76, 76);
 }
-se: lighten(#9d9d9d,25%);
+
+
+
+@base: lighten(#9d9d9d,25%);
 @scale: darken(@base,25%);
 
 
