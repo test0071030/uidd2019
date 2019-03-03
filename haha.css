@@ -1,12 +1,8 @@
-
-body {
-background-color: rgb(201, 76, 76);
+#picture1 {
+position: fixed;
+left: 650px;
+top: 100px;
 }
-
-
-
-
-
 
 
 #menu {
@@ -29,6 +25,7 @@ text-align: center;
 
 #greetings {
 font-size:60px;
+letter-spacing: 5px;
 position: absolute;
 left: 100px;
 top: 150px;
