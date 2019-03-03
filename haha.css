@@ -1,40 +1,40 @@
+
 body {
-    background-color: rgb(201, 76, 76);
- }
+      background-color: rgb(201, 76, 76);
+       }
 
 #menu {
-font-size:25px;
-position: fixed;
-left: 5%;
-top: 5%;
-}
+         font-size:25px;
+         position: fixed;
+         left: 1%;
+         top: 0%;
+       }
 
 #fblogo {
-position: fixed;
-right: 5%;
-top: 5%;
-}
+         position: fixed;
+         right: 1%;
+         top: 1%;
+       }
 
 #name {
-font-size:25px;
-position: fixed;
-text-align: center;
-}
+         font-size:25px;
+         text-align: center;
+       }
 
 #greetings {
-font-size:50px;
-position: absolute;
-left: 5px;
-bottom: 40px;
+         font-size:60px;
+         position: absolute;
+         left: 100px;
+         top: 150px;
 
-}
+       }
 
 #saysomething {
-font-size:25px;
-position: absolute;
-left: 5px;
-bottom: 10px;
-}
+         font-size:25px;
+         position: absolute;
+         left: 100px;
+         top: 600px;
+       }
 
 
 
