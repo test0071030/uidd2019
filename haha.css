@@ -2,35 +2,36 @@ body {
     background-color: rgb(201, 76, 76);
  }
 
-#menu1 {
-font-size:10px;
+#menu {
+font-size:25px;
 position: fixed;
-left: 0%;
-top: 0%;
+left: 5%;
+top: 5%;
 }
 
 #fblogo {
 position: fixed;
-right: 0%;
-top: 0%;
+right: 5%;
+top: 5%;
 }
 
 #name {
 font-size:25px;
+position: fixed;
 text-align: center;
 }
 
 #greetings {
 font-size:50px;
-position: fixed;
+position: absolute;
 left: 5px;
-bottom: 20px;
+bottom: 40px;
 
 }
 
 #saysomething {
 font-size:25px;
-position: fixed;
+position: absolute;
 left: 5px;
 bottom: 10px;
 }
