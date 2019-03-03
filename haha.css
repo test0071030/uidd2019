@@ -1,3 +1,10 @@
+body {
+background: #e0f5fc;
+background: -moz-linear-gradient(top, #e0f5fc 0%, #024c29 100%);
+background: -webkit-linear-gradient(top, #e0f5fc 0%,#024c29 100%);
+background: linear-gradient(to bottom, #e0f5fc 0%,#024c29 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0f5fc', endColorstr='#024c29',GradientType=0 );
+}
 #picture1 {
 position: fixed;
 left: 650px;
