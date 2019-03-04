@@ -8,7 +8,7 @@ $(document).ready(function(){
  $("html,body").stop()
  if(moving==0){
  moving=1
- if(e.deltaY==-1){
+ if(e.deltaY== -1){
  if(n<num_li){
     n++
     }
