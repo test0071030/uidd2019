@@ -1,3 +1,57 @@
+*{
+padding:0;
+margin:0;
+}
+body{
+overflow: hidden;
+}
+/*    插入背景圖片    */
+.p01{
+background-image:url(https://i.imgur.com/461a7Ah.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+.p02{
+background-image:url(https://i.imgur.com/Vca7Oxx.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+.p03{
+background-image:url(https://i.imgur.com/RRdeZqP.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+.p04{
+background-image:url(https://i.imgur.com/lhqkkEK.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+.p05{
+background-image:url(https://i.imgur.com/1z1fBiL.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+/*    插入導覽列     */
+.nav{
+position: fixed;
+top:50%;
+right:0px;
+cursor:pointer;
+}
+li{
+width:10px;
+height:10px; 
+margin: 10px;
+background-color: white;
+border-radius: 5px;
+box-shadow: 1px 1px 1px rgba(0,0,0,0.5) inset,-1px -1px 1px rgba(0,0,0,0.5) inset;
+list-style-type: none;
+}
 
 #picture1 {
 position: fixed;
