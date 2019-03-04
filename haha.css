@@ -54,11 +54,34 @@ list-style-type: none;
 }
 
 #picture1 {
-position: fixed;
+position: absolute;
 left: 650px;
 top: 100px;
 }
 
+#picture2 {
+  position:absolute;
+  left:650px;
+  top 800px;
+}
+
+#picture3 {
+  position:absolute;
+  left:650px;
+  top 1500px;
+}
+
+#picture4 {
+  position:absolute;
+  left:650px;
+  top 2200px;
+}
+
+#picture5 {
+  position:absolute;
+  left:650px;
+  top 2900px;
+}
 
 #menu {
 font-size:25px;
@@ -69,19 +92,21 @@ top: 1%;
 
 #fblogo {
 position: fixed;
-right: 1%;
+right: 5px;
 top: 1%;
 }
 
 #name {
 font-size:25px;
-text-align: center;
+position: fixed;
+left: 35%;
+top:1%;
 }
 
 #greetings {
 font-size:60px;
 letter-spacing: 5px;
-position: absolute;
+position: fixed;
 left: 100px;
 top: 150px;
 
@@ -89,7 +114,7 @@ top: 150px;
 
 #saysomething {
 font-size:25px;
-position: absolute;
+position: fixed;
 left: 100px;
 top: 600px;
 }
